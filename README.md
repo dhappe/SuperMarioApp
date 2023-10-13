@@ -1,3 +1,18 @@
+
+# Super Mario App
+
+App do jogo Super Mario feito em React + Vite.
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Stack utilizada
+
+**Front-end:** React, Vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
